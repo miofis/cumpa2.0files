@@ -1,2 +1,2 @@
-from a member user point of view
-from a gym owner user point of view
+-- from a member user point of view
+-- from a gym owner user point of view
